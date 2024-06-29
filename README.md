@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22113740&label=Profile%20views&color=0e75b6&style=flat" alt="it22113740" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=it22113740&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/140438689?s=96&v=4)" alt="it22113740" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it22113740" alt="it22113740" /></a> </p>
 
